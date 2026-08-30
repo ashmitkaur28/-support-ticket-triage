@@ -8,7 +8,7 @@ input/output guardrails.
 
 ## Live demo
 
-[Add your deployed link here once live]
+https://janjgaiucvz7tezgqphorr.streamlit.app
 
 ## Architecture
 
