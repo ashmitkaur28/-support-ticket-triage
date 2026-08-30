@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+logs.db
+.DS_Store
+data/dataset-tickets-multi-lang-4-20k.csv 

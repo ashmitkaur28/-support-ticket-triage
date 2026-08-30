@@ -1,0 +1,302 @@
+[
+  {
+    "id": "kt0000",
+    "text": "Lost Invoices Inquiry\n\nInvoices for software and hardware products are missing, leading to billing inconsistencies. This could result from miscommunication or misplaced documents.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0001",
+    "text": "Issues with Billing\n\nThe marketing agency encountered unexpected discrepancies in billing for various digital products. These discrepancies might have arisen from multiple account integrations. Efforts to resolve the issue included reviewing account statements and contacting customer support, but a resolution was not achieved. We kindly request your assistance in resolving this matter.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0002",
+    "text": "Inaccurate Investment Forecasts Noted\n\nRespected Customer Support, I am contacting you to highlight a concern regarding the investment forecasts provided by your system, which are not accurate. This may be a result of inadequate data analysis training. After examining the data inputs and model configurations, the problem still exists. I kindly ask for your assistance in investigating this and offering a resolution. The inaccuracy in these predictions is complicating my investment decision-making process. Despite my efforts to resolve this on my own, I require further support. Could you please instruct me on further steps to take or ask for any additional information? I am eagerly awaiting your response. Thank you for your time and cooperation. Sincerely, [Your Name]",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0003",
+    "text": "Enhancing Brand Presence Digitally\n\nI am keen on exploring your digital strategies for brand growth and development. Could you furnish me with detailed information about the services you provide?",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0004",
+    "text": "Problem with Investment Reports Generation\n\nInvestment optimization reports are not generating correctly after recent software updates. Restarting the applications and clearing caches did not resolve the issue.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0005",
+    "text": "Boost Security of Medical Information\n\nTo the support team, in reference to improving the encryption of medical data storage and transmission on the hospital's IT infrastructure and related devices, I am seeking additional details on the existing security protocols and the options for enhancement to safeguard the privacy and integrity of patient information.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0006",
+    "text": "Request for Digital Marketing Services Pricing Details\n\nI am contacting you to seek information about the pricing plans for digital marketing services. Could you kindly offer me a comprehensive breakdown of the expenses and the services included in each plan? Additionally, it would be great if you could inform me about any available discounts or promotions. I appreciate your time and assistance and eagerly await your response. Kindly notify me when it would be convenient for a call if you wish to discuss further.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0007",
+    "text": "Support for Campaign Metrics\n\nThe campaign metrics appear to be incorrect, which might be because of flawed data tracking.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0008",
+    "text": "Encountered Issues During Medical Data Transfer\n\nI am contacting you to report an issue where the transfer of medical data through a USB storage device has not been successful. I suspect that the problem might be due to outdated drivers, and I have already tried restarting the system and ensuring the USB connection is secure, yet the issue remains unresolved. I would be grateful for any guidance you can provide to address this promptly. Please advise if there are any extra steps I should undertake or if you require further details from me. Thank you for your assistance.",
+    "true_category": "IT Support",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0009",
+    "text": "Details on Task Management Features\n\nI am keen to learn more about the task management and team collaboration features your service provides. Could you kindly share information on how your system enhances communication and organization among team members? I would value any specific details you could offer on this matter.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0010",
+    "text": "Security Protocols for Linux Mint in Medical Data Storage\n\nI hope this message finds you well. I am writing to seek advice on the security measures that should be adopted when storing medical information on a Linux Mint system. Given the critical nature of medical data, it is of utmost importance that it is stored securely. Could you please outline the best practices for securing such data, encompassing encryption techniques, access control mechanisms, and any other pertinent security strategies? Furthermore, could you recommend any particular tools or software that are suitable for this task? Your assistance in this matter would be greatly appreciated. Please feel free to contact me at <tel_num> if you need to discuss this further at your convenience.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0011",
+    "text": "Boost Security of Medical Data\n\nTo the support team, I am inquiring about ways to improve encryption for the storage and transmission of medical data on hospital IT systems and related devices. Could you provide more details on the current security measures and suggest any enhancement options to protect sensitive patient information?",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0012",
+    "text": "Enquiry on Digital Strategies for Brand Growth\n\nCould you supply details on digital strategies for brand growth? I would greatly appreciate any guidance to assist my business.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0013",
+    "text": "Support billing discrepancy\n\nA billing discrepancy has occurred where multiple customers were incorrectly charged due to a system update.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0014",
+    "text": "Problem with Gamepad Integration Features\n\nI am encountering crashes while using the SaaS project management tool that includes gamepad functionalities. The issue might be related to software compatibility problems, possibly with Kaspersky. Despite attempting to resolve the issue by disabling Kaspersky and adjusting firewall settings, the problem still persists. I would greatly appreciate any assistance in resolving this to ensure seamless project management. Please let me know the next steps to troubleshoot and fix the problem.",
+    "true_category": "Technical Support",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0015",
+    "text": "Concerns Regarding Optimization Software Performance\n\nThe optimization software is not processing investment data accurately, which may be due to potential compatibility issues with Redis 6.2. Efforts to resolve the issue, such as restarting the Redis service and reviewing application logs for errors, have not been successful. Assistance is required to address this issue.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0016",
+    "text": "Upgraded Security Measures for Medical Data\n\nCustomer Support, please draw attention to the critical need for implementing enhanced security measures to protect medical data in our hospital's infrastructure. With the rise in cyberattacks targeting healthcare institutions, it is essential to take proactive steps to safeguard sensitive patient information. This includes encrypting data, setting up firewalls, and conducting regular security audits. Staff training in cybersecurity practices and ensuring that software systems are up-to-date are also crucial.",
+    "true_category": "Service Outages and Maintenance",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0017",
+    "text": "Medical Support\n\nI am reaching out to inquire about solutions that can secure medical data and enhance hospital infrastructure. Could you provide details on the services you offer, including data encryption and network security? I would greatly appreciate any information that could help improve the overall efficiency of hospital operations. Thank you for your time and assistance. I look forward to hearing from you soon.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0018",
+    "text": "Options for Project Management Integrations\n\nHello Customer Support, I am contacting you to seek information regarding the project management integrations that are available for use with e-commerce platforms. As an existing user of your e-commerce platform for my online business, I am eager to enhance my project management processes. Could you please inform me about the types of project management tools that can be seamlessly integrated with your e-commerce platform? I am particularly interested in knowing whether you provide any pre-built integrations or APIs that facilitate the connection between project management software and your platform. Your assistance in providing relevant details would be greatly appreciated. Thank you for your attention and I am looking forward to your prompt response.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0019",
+    "text": "Boost Project Dashboard Widgets\n\nOptimize user experience by adding customizable widgets.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0020",
+    "text": "Concerns Regarding Financial Firm's Data Analytics Platform\n\nThe financial firm's data analytics platform is currently experiencing issues with accurately analyzing investment data, which might be due to recent software update incompatibility or new hardware installation. Steps such as restarting the system and reinstalling affected applications have been attempted but did not resolve the problem. We kindly request your assistance in resolving this issue at the earliest possible time.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0021",
+    "text": "Trouble with Audio Quality in Team Meetings\n\nCustomer Support, reporting an issue with audio quality during team meetings using Microsoft Teams. The audio quality has severely deteriorated, leading to communication issues. The problem could be due to network instability or incorrect device settings. Steps already taken include restarting the TP-Link switch and adjusting the Logitech StreamCam audio settings, but the issue still persists. Assistance is needed to resolve this, as it is impacting team productivity. Please let me know how to proceed with troubleshooting.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0022",
+    "text": "Sync Issues Encountered\n\nBrief description of the issue: Project synchronization failed, data not syncing between platforms. Possible API integration problems. Restarted services and reviewed logs, but the issue remains unresolved. Assistance needed to address the sync problem.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0023",
+    "text": "Investment Forecasts Were Inaccurate Today\n\nThe predictive models did not yield accurate results. It appears that inadequate data integration might be the cause. Hadoop was restarted, and data sources were verified.",
+    "true_category": "Customer Service",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0024",
+    "text": "Assistance with Declining Brand Growth Metrics\n\nNoted decline in brand growth metrics",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0025",
+    "text": "Optimizing Marketing with Ableton Live\n\nI am seeking advice on using Ableton Live for digital marketing strategies. Could you provide insights on how to effectively utilize the tool? Specific features and workflows that could enhance online presence and engagement would be particularly helpful. I would appreciate any guidance or resources you can offer on this topic. Thank you for your assistance.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0026",
+    "text": "Concerns About Service Outage Affecting Digital Marketing\n\nCustomer Support,\\n\\nI am reporting that a service outage has affected our digital marketing strategies, which in turn has impacted the performance of our ad placements. The outage might be due to server issues or software conflicts. Despite attempting to reboot the system and perform updates, the problem continues to persist.\\n\\nI would greatly appreciate it if you could look into this matter urgently and provide a solution to restore our services. Please let me know if there is any additional information you need to facilitate the resolution process.\\n\\nThank you.",
+    "true_category": "Service Outages and Maintenance",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0027",
+    "text": "Ensure the Secure Storage of Medical Data via Encryption\n\nGreetings Customer Support, I am keen to discuss the imperative of adopting strong encryption and access management systems to safeguard confidential medical data across our network. This is vital to ensure patient privacy and to guard against unauthorised access. Could you please offer some guidance on the most effective ways to set up these protocols? I am eager to learn about the top strategies for encrypting medical information and controlling who can access it. Your expertise and recommendations on this subject would be greatly appreciated. Thank you for your time and support. I am looking forward to your reply. Sincerely, [Your Name]",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0028",
+    "text": "Problem with Syncing Project Updates Across Devices\n\nThe user is unable to sync project updates across devices using the Smart-Thermometer Chef applications following recent software updates. Despite clearing the app cache and reinstalling, the issue still exists. The user has attempted multiple troubleshooting steps but the problem continues.",
+    "true_category": "Customer Service",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0029",
+    "text": "Customer Support Request\n\nCould you please assist in securing medical data within the Smart-Licht SAP ERP systems?",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0030",
+    "text": "Problem with Accessing Medical Information\n\nI am facing an unanticipated refusal to access medical records. This might be due to a software compatibility issue. I have already rebooted the systems, verified permissions, and reached out to IT support, yet the problem still exists. Could you please examine this situation and offer a solution as quickly as possible? If you require further details from me to address this, please inform me.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0031",
+    "text": "Assistance Required for Data Analytics Platform\n\nThe data analytics platform has gone offline, which is hindering investment optimization. A potential cause could be server overload, which was resolved by restarting and clearing the cache.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0032",
+    "text": "Information on Digital Payment Terms\n\nI am writing to seek details about the payment conditions for digital strategy services. Could you kindly furnish me with more insight into this? It would be greatly appreciated if you could include information about the payment timeline, accepted means of payment, and any extra charges related to the services.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0033",
+    "text": "Simultaneous Crashes of Several Tools This Morning\n\nSeveral tools crashed simultaneously. This might be related to infrastructure overload. Servers were restarted, logs were checked, and relevant teams were notified. The issue is under investigation and will be resolved promptly.",
+    "true_category": "Service Outages and Maintenance",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0034",
+    "text": "Support for Digital Strategies Integration\n\nSeeking assistance in implementing digital strategies with Wix and Mailchimp. Interested in detailed information on how these tools work together to support business growth. Specifically, looking for best practices and tips on integrating them. Looking forward to your response regarding digital strategies.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0035",
+    "text": "Enquiry on Handheld Scanner Costs\n\nHello Customer Support, I hope this message finds you well. I am currently looking into the Handheld Scanner for our business and am in need of detailed information about its pricing and associated expenses. Could you kindly share a comprehensive pricing list, including any promotional offers or reductions that might be applicable? Additionally, I would like to know about any extra charges such as delivery or maintenance. We are enthusiastic about incorporating this equipment into our operations and are keen to understand its full potential in our business. Kindly inform me if there are any specific prerequisites or specifications to consider when using the Handheld Scanner. Furthermore, we would appreciate details on any training or support materials available to help us maximize the benefits of this product. Looking forward to your prompt response. Thank you for your support and assistance. Sincerely, [Your Name]",
+    "true_category": "Billing and Payments",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0036",
+    "text": "Urgent Assistance Required for Security Issues\n\nA security breach has occurred, compromising medical data on hospital systems. This may be due to vulnerabilities in outdated software and improper access controls. A full system audit is being conducted, and passwords have been reset to enhance security.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0037",
+    "text": "Integration Error Resulting in Project Data Loss\n\nThe integration encountered a failure that led to the loss of project data. There is a possibility that the recent Laravel 8 update is not compatible. Services have been restarted, API keys checked, and errors have been documented.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0038",
+    "text": "Strategies for Brand Growth with Dell UltraSharp U2720Q\n\nHello Customer Support, I am contacting you to seek insights into digital strategies that can aid in brand growth, specifically with the use of Dell UltraSharp U2720Q displays. I am keen to explore how these displays can improve our digital presence and attract a broader audience. Could you provide information on the following: How can we make use of the features of Dell UltraSharp U2720Q to produce captivating digital content? What effective marketing campaign methods can we employ using these displays to boost brand awareness? Are there any digital strategies that have proven to be successful for other businesses utilizing these displays? I would greatly appreciate any advice or suggestions you can offer. Furthermore, I would like to know if there are any resources or tools that can assist us in optimizing our digital strategy with these displays. Thanks for your time and support. I am looking forward to your response. Sincerely, [Your Name]",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0039",
+    "text": "Boost Brand Visibility in Digital Marketing\n\nWe require assistance in enhancing our brand's online presence. Please help us in formulating effective digital marketing strategies across various product platforms.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0040",
+    "text": "Urgent Technical Support Needed\n\nData breach detected due to a potential vulnerability",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0041",
+    "text": "Strategies for Expanding with HubSpot\n\nHello Customer Support Team, <br>We are contacting you to seek advice on digital strategies to boost our brand growth through HubSpot CRM. We wish to make use of HubSpot's tools to improve our customer relationship management and increase our online visibility. <br>We are particularly interested in inbound marketing tactics, including content production, social media management, and email marketing, and how these can be effectively merged with HubSpot CRM. <br>We would appreciate recommendations on the most effective ways to implement these strategies and any supplementary tools or features we can use to enhance our brand's growth. <br>Could you also offer guidance on how to monitor and assess the success of these strategies, as well as any challenges we should anticipate? <br>Thank you for your support and we hope to hear from you soon. <br>Cordially, <br>[Your Name]",
+    "true_category": "Technical Support",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0042",
+    "text": "Inquiry on Data Analytics Tools for Investment\n\nCustomer Support, I am reaching out to inquire about data analytics tools that can optimize investment strategies. Could you provide insights on tools that help make informed investment decisions, particularly focusing on data visualization capabilities to identify trends and patterns in the market? Additionally, I would like to know more about the predictive analytics features used to forecast future market movements. I would appreciate any information provided, including case studies and whitepapers.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0043",
+    "text": "Enhance Marketing Campaign Performance\n\nThe current marketing campaign has not reached the expected engagement levels. There might be issues with ineffective targeting and ad fatigue. After analyzing the audience segmentation and adjusting budgets, the results are still not satisfactory.",
+    "true_category": "Customer Service",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0044",
+    "text": "Health Concern\n\nIncident: Encryption of health data malfunctioned. Possible causes: Obsolete software, potential misconfiguration.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0045",
+    "text": "Revise Sales Documentation\n\nUpdating sales documentation can boost client interaction.",
+    "true_category": "Sales and Pre-Sales",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0046",
+    "text": "Incorrect Fee Applied for Subscription Renewal\n\nThere was an incorrect charge applied to the subscription renewal.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0047",
+    "text": "Troubleshooting Connectivity Problems with Devices\n\nCustomer Support is facing connectivity issues with various products, such as Ubiquiti UniFi and SAP ERP Central Component 6.0, possibly due to recent updates or network configuration changes that were not thoroughly tested. So far, the customer has tried resetting the devices, checking network settings, and uninstalling/reinstalling the affected applications. Unfortunately, these steps have not resolved the issue. We would greatly appreciate your assistance in troubleshooting and resolving this problem as soon as possible.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0048",
+    "text": "Request for System Integration Support\n\nCustomer Support, <br>Our marketing agency is facing issues with system integration across multiple platforms. These discrepancies in data between Cisco Webex Meetings, Zoho Books, and other systems may be hindering the effectiveness of our campaigns. The problems might be due to API conflicts or version mismatches. We have already attempted troubleshooting by restarting applications and checking for updates, but the issue continues to persist and requires our assistance to resolve. Could you please provide guidance on how to resolve these integration issues to ensure seamless data synchronization across all platforms?",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0049",
+    "text": "Current Update\n\nIn need of assistance with revisions to the digital marketing approach",
+    "true_category": "Sales and Pre-Sales",
+    "true_urgency": "medium"
+  }
+]

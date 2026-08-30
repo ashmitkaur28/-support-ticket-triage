@@ -1,0 +1,902 @@
+[
+  {
+    "id": "kt0050",
+    "text": "Urgent Upgrade of Data Analytics Tools\n\nNeed help in enhancing the efficiency of investment tracking.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0051",
+    "text": "Please Improve Integration Features\n\nDear customer support, I am writing to request enhancements in integration capabilities for the listed products, which would significantly boost project management efficiency and the user experience. I believe these changes would be highly beneficial and appreciated by users. We would greatly value your consideration of this request. Thank you for your time and assistance.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0052",
+    "text": "Health Information Leak\n\nThe Smart-Thermometer application was compromised because of inadequate encryption measures.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0053",
+    "text": "Troubleshooting Integration Concerns\n\nWe have noticed integration issues with the financial firm's data analytics tool when using AutoCAD 2022, leading to delays in operations.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0054",
+    "text": "HIPAA Compliance Security Protocols\n\nCould you please provide details on the security protocols implemented to ensure HIPAA compliance for the storage of patient data? Specifically, I'm interested in knowing about the data encryption methods and access controls used. Additionally, are the data centers situated within the United States, and what auditing processes are in place to maintain compliance?",
+    "true_category": "Returns and Exchanges",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0055",
+    "text": "Concern Regarding Social Media Engagement\n\nDear Customer Support, We are currently facing an issue with our social media engagement which has drastically decreased over the last week. Despite our efforts to maintain a consistent and high-quality content strategy, our metrics such as likes, shares, and comments have significantly reduced. We are uncertain of the reasons behind this drop, and we suspect that recent algorithm modifications or our content strategy might be the underlying causes. To address this, we have adjusted our posting schedule and updated our content. Unfortunately, there has been no improvement. We would greatly appreciate any assistance you can provide to help us determine the root cause and devise a strategy to boost our social media engagement. We are eager to hear your guidance and support. Thank you for your time and assistance. We are looking forward to your response.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0056",
+    "text": "Report on Website Issue\n\nThe analytics dashboard on the website has ceased to update, possibly due to an API connectivity problem. I attempted to restart the dashboard and verified the API keys, but the issue remains unresolved.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0057",
+    "text": "Identified Variability in Output from Investment Data Analytics Tool\n\nThe investment data analytics tool is generating inconsistent output results.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0058",
+    "text": "Assistance with IFTTT Integration\n\nLooking for comprehensive integration instructions for the IFTTT SaaS project management solution? Require step-by-step guidance.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0059",
+    "text": "Security Incident: Exposure of Medical Records\n\nA security incident has been identified involving the exposure of medical records. The potential cause is a flaw in Node.js or Elasticsearch. Norton antivirus scans have been conducted and updates for iOS and macOS have been verified.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0060",
+    "text": "Concern About Monthly Subscription Charges\n\nDear Support, I hope this message finds you well. I am writing to bring to your attention an issue with my subscription charges. I was charged twice for the same month, and I believe this might be due to a system glitch. I have already contacted support, and a resolution has been provided. However, I would greatly appreciate it if you could look into this matter and possibly process a refund for the excess charge soon, if possible. Please let me know if you need any additional information to resolve the issue. My email address for further contact is necessary. Thank you for your prompt attention.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0061",
+    "text": "Unapproved Access to Medical Data\n\nA healthcare provider encountered unapproved attempts to access medical data, likely due to outdated security procedures. System audits and software updates were performed, but issues remain unresolved. We kindly request your assistance in addressing this matter to enhance security and protect sensitive information.",
+    "true_category": "Returns and Exchanges",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0062",
+    "text": "Inquiry About Integrating DocuSign SaaS Project Management Solution\n\nWould appreciate details on integrating the DocuSign SaaS project management solution as it could significantly enhance workflow productivity. I am very interested in learning about the benefits and the implementation process. Looking forward to your assistance and eagerly await your response.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0063",
+    "text": "Expertise Needed\n\nSeeking advice on securing medical data in Laravel 8 hospital systems to ensure confidentiality and integrity.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0064",
+    "text": "Detected Security Breach in Medical Data Systems\n\nA security breach has been detected in the medical data systems, which could potentially expose sensitive patient information. This may have occurred due to outdated software and insufficient access controls. We have implemented temporary access restrictions and initiated an audit of recent logins to identify the source of the breach. The audit will help us understand the extent of the breach and take necessary steps to prevent such incidents in the future.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0065",
+    "text": "Details on Hemingway Editor Integration Pricing\n\nI am contacting you to request information about the pricing plans for integrating the Hemingway Editor into your SaaS product. Could you furnish me with the details of the available plans and their respective costs? Furthermore, I would be grateful if you could inform me regarding any discounts for extended commitments or bulk purchases. Additionally, I would like to know if there are any constraints on the number of users or the features included with each plan. I look forward to your response.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0066",
+    "text": "Problem with Data Synchronization Error\n\nRespected Customer Support, I am facing a data synchronization error among various tools. It might be caused by integration compatibility issues. Despite restarting the services and verifying the configuration files, the issue still exists. I kindly request you to investigate this and offer a resolution at the earliest. Please inform me if you require additional details. I await your response eagerly. Thank you for your support and time.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0067",
+    "text": "Urgent Data Breach Report and Request for Assistance\n\nHello Customer Support, I am contacting you to report a data breach that has recently happened. I suspect it might be due to a misconfigured AWS setup, which I have attempted to fix by restarting the GitHub sync. Despite these efforts, the issue still exists, and I am worried about the security of my data. Could you please investigate this as soon as possible and offer a solution to avoid future breaches? If there is any additional information you need from me to assist with your investigation, please let me know. I am willing to provide any necessary details or assist in any way required. I appreciate your swift action on this matter and eagerly await your response. Thank you for your quick attention.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0068",
+    "text": "Notify about Unapproved Access\n\nThere have been reported unauthorized access attempts to medical data. Potential reasons could be weak security measures or phishing attacks.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0069",
+    "text": "Inquiry on Integrating Project Management Tools\n\nSeeking details on integrating project management tools through API capabilities. Would greatly appreciate information on compatibility and any potential limitations.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0070",
+    "text": "Report on Software Anomalies\n\nDear Support Team, I am encountering frequent software crashes in various applications. These issues seem to be exacerbated by recent updates, possibly due to resource constraints. Despite restarting my systems and reinstalling the affected software, the problems continue. Could you please help me resolve this to avoid further disruptions?",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0071",
+    "text": "Problem with campaign analytics\n\nCampaign analytics are not being tracked in SAP ERP because of an integration problem with the H2O.ai analytics tool.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0072",
+    "text": "Inquiry on API Integration Support for SaaS Project Management Tool\n\nI am keen on learning about the API integration capabilities of the SaaS project management tool. Could you provide detailed information on the types of integrations supported, including third-party apps like Google Drive, Trello, and Slack, as well as custom integrations? Additionally, I would like to know which APIs and SDKs are available for developers to build custom integrations. Please also provide information on the security measures in place to protect user data during integration. I look forward to hearing back from you.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0073",
+    "text": "Information on System Requirements\n\nCan you provide details about the system requirements?",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0074",
+    "text": "Strategies for Digital Brand Growth in Tech Products\n\nWhat are the most effective digital strategies to boost brand growth for tech products? Please share the best methods.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0075",
+    "text": "Challenges in Digital Marketing\n\nOur agency is encountering difficulties in boosting digital brand growth. We have observed a decline in engagement metrics because of poorly targeted campaigns and content fatigue. We have attempted to adjust audience targeting and refresh our content strategy, but the issues continue.",
+    "true_category": "Customer Service",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0076",
+    "text": "Support Request: Data Analytics Disruption\n\nProblem: There was a disruption in data analytics. It occurred when the servers crashed unexpectedly, causing the optimization of investments to be halted. Possible reasons include overloaded resources and software incompatibility. Efforts to resolve it, such as restarting the servers and checking compatibility, were unsuccessful. I urgently need your help to resolve this issue and find a solution to prevent similar incidents in the future.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0077",
+    "text": "Problems with Integration\n\nFacing integration challenges across various platforms such as Microsoft Teams and GitHub. Recent updates or API changes might be the cause. We've attempted to reconnect and verify API keys but have not succeeded. We would greatly appreciate your help in resolving this matter. Please inform us of the steps you have taken so far and any error messages you have encountered. It would also be beneficial to know the specific updates or API changes made recently. Let's schedule a call at your convenience to discuss the issue and provide a tailored solution. Please notify us of a suitable time for the call at <tel_num> and for your account, <acc_num>.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0078",
+    "text": "NZXT Hardware Malfunction\n\nI am encountering a hardware failure with my NZXT Kraken Z63. The problem could be due to overheating. Despite attempting to restart the system and update the drivers, the issue remains unresolved. I would greatly appreciate any support to resolve this problem.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0079",
+    "text": "Enhancing Brand Growth Through Digital Strategies with QuickBooks Online\n\nI am interested in exploring digital strategies that can enhance brand growth when integrated with QuickBooks Online. Could you provide more details on the benefits and how it can assist my business? I would appreciate any information or resources on this subject. I look forward to your response and to learning how QuickBooks Online can support my business growth.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0080",
+    "text": "Problems with System Performance While Using Data Analytics Tools\n\nI'm facing system performance issues while using data analytics tools, particularly during investment optimization tasks. The problem might be due to high CPU usage caused by multiple applications running simultaneously. So far, I've closed non-essential applications and restarted the system to improve performance, but the issue still persists. I need assistance to resolve this.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0081",
+    "text": "Urgent Issue: Key Feature Crash in Project Management Tool\n\nReporting critical issue with project management tool. During load testing, a key feature crashed unexpectedly. Even after increasing server capacity, the problem still exists. Suggesting the issue might be due to insufficient server resources. Requesting urgent assistance to address this matter and prevent future crashes. Kindly provide any necessary information. Thank you for prompt attention.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0082",
+    "text": "Report of Data Breach: Sensitive Medical Records Exposed\n\nThe data breach resulted in the exposure of sensitive medical records because of outdated SAP ERP security patches.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0083",
+    "text": "Several Tools Experienced Concurrent Failures\n\nHello Customer Support, I am contacting you to report a problem where several tools failed to function at the same time. The potential causes might be an overloaded server or conflicting software. I have already attempted to restart the servers and check for updates, yet the issue remains unresolved. I would be grateful if you could investigate and offer a solution promptly. Please inform me if you need further details from me to address this. Thank you for your time and help. I am looking forward to your response soon.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0084",
+    "text": "Project Data Disappeared Without Reason Today\n\nTo Customer Support: I am contacting you to report a problem with my project data. During the synchronization process, all of my data disappeared unexpectedly. I think this could be related to network connectivity issues or software compatibility problems. I have already attempted to restart my device, check my Wi-Fi, and review my account settings, but the issue continues. I would greatly appreciate your assistance in resolving this. Please provide me with any additional information you may require to address this situation promptly.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0085",
+    "text": "Microsoft Dynamics 365 Integration Options Available\n\nWould you like to know more about the available integrations with Microsoft Dynamics 365?",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0086",
+    "text": "Support for Project Management\n\nThe project management platform encountered an unexpected crash. It could be due to overloaded servers or code errors. After restarting the servers and reviewing the system logs, the problem still exists.",
+    "true_category": "Service Outages and Maintenance",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0087",
+    "text": "Crash in data analytics platform, suspected Azure integration problem\n\nThe data analytics platform suddenly stopped working. There might be an issue with the Azure integration. I've already restarted PyCharm and checked for any recent antivirus updates. I need help to fix this problem.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0088",
+    "text": "Enhancing Brand Growth Through Digital Strategies During New Product Launches\n\nWhat methods can be employed through digital strategies to boost brand growth during the launch of new products?",
+    "true_category": "Customer Service",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0089",
+    "text": "Query on Payment Options for Medical Data Services\n\nHello Customer Support, I would like to ask about the payment options for my medical data services. I am eager to know the various payment methods such as credit cards, bank transfers, or online platforms that are accepted. Could you send me a comprehensive list of the accepted payment methods along with any necessary information? Additionally, please inform me if there are any current discounts or promotions available. I am looking forward to your response and hope to learn more about the payment options for my medical data services. Thank you for your help and assistance. Please feel free to request any additional information from me.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0090",
+    "text": "Request for Support Over Software Problem\n\nThe data analytics program has encountered an error, resulting in the loss of essential investment analysis. The issue might stem from incompatible software updates or hardware conflicts. I've tried restarting the system, updating and clearing cache, but the problem remains unresolved. Assistance is needed to address the issue and recover the lost data.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0091",
+    "text": "Suspected Medical Data Breach\n\nTo the support team, I am reporting a brief issue: A potential medical data breach has been detected on our hospital's network. Weak password controls might be the cause. Already ran a Kaspersky scan and adjusted router settings. Urgent help is needed for further investigation and a resolution.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0092",
+    "text": "Problems with Billing Discrepancies Identified\n\nOur marketing agency encountered unanticipated billing discrepancies impacting several digital tools. These might have arisen from recent software updates or misconfigurations. We have already reviewed the invoices and reached out to support to address these inconsistencies. We would greatly appreciate it if you could look into this matter and provide a solution at your earliest convenience.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0093",
+    "text": "Strategies for Boosting Brand Growth via Digital Marketing\n\nCould you please give me more information on digital marketing techniques that can aid in brand growth and product promotion?",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0094",
+    "text": "Digital Campaigns Have Come to a Halt Because of Potential Integration Problems\n\nHello Support Team, We are contacting you due to a malfunction with our digital campaigns that has suddenly halted. We are unclear about the reasons behind it and believe it might be related to integration difficulties. We have attempted to restart our services and review the configurations, but the issue remains unresolved. We kindly ask for your help in addressing this promptly. Please inform us if you require any further information from us. We are eagerly awaiting your response. Many thanks for your attention and support.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0095",
+    "text": "Investment Data Analysis Services\n\nI would like to learn more about the data analytics services you provide for optimizing investments. Could you share details on the services available and how they can assist me in making well-informed investment choices?",
+    "true_category": "Human Resources",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0096",
+    "text": "Urgent Security Requirement\n\nHello Customer Support, I urgently need your assistance to enhance the encryption measures for protecting our sensitive medical data and hospital IT systems. The current security setup is inadequate to combat the increasing cyber threats, which could jeopardize patient privacy and public safety. I urge your team to act swiftly to upgrade the encryption methods and safeguard all critical data. Please include implementing full end-to-end encryption for all data transfers and encrypting all data stored in hospital systems. I look forward to receiving a clear schedule for when these improvements will be made and the actions your team will undertake to secure our medical and IT systems.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0097",
+    "text": "Investment Dashboard Loading Issue\n\nThe investment dashboard failed to load, possibly due to software compatibility issues. You have already tried restarting your workstation and updating Avid Pro Tools.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0098",
+    "text": "Issue with Medical Data Access\n\nPlease find a brief description of the issue: There was an unexpected denial of access to medical data, which may be due to a configuration error or recent software update. After restarting the servers and verifying permissions, the problem still exists.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0099",
+    "text": "Data Analytics Dashboard Encountered a Sudden Malfunction\n\nDear Client Support, I am formally reporting an anomaly with my data analytics dashboard. It unexpectedly halted, and I cannot ascertain the reason behind this. I suspect possible issues with storage insufficiency or software interactions. Despite attempting to reset Pinnacle Studio and verifying my UniFi connections, the problem remains unresolved. I would be immensely grateful if you could provide the necessary assistance to fix this. Kindly inform me if there are additional steps I should undertake to diagnose the problem or if further information is needed from me. I appreciate your prompt attention to this matter.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0100",
+    "text": "Data Analysis Dashboard Load Failure\n\nThe data analysis dashboard is not loading. It might be due to incompatible software updates. I have restarted the system and verified the firewall settings, yet the problem continues. Can you please help me solve this?",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0101",
+    "text": "Marketing Campaign Engagement Drop\n\nWe have observed a decline in engagement metrics. This could be due to recent algorithm changes. Despite adjusting our content strategy and increasing ad spend, the results remain unsatisfactory.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0102",
+    "text": "Request for Update on Billing Information Related to Marketing Digital Strategies and Brand Growth Initiatives\n\nI am reaching out to request an update on the billing information for the products related to our marketing digital strategies and brand growth initiatives. Could you please assist with this matter? I would greatly appreciate it if you could provide me with the necessary steps to update the billing information as soon as possible.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0103",
+    "text": "Enhance Investment Dashboard with Advanced Analytics\n\nI require support with my investment dashboard. It needs improved data analytics and reporting functionalities for effective decision-making. Assistance in making it more optimized would be greatly appreciated.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0104",
+    "text": "Irregular Billing Data in System Reports\n\nDear Customer Support Team,<br><br>I am contacting you to report an issue with inconsistent billing data that is appearing in our system reports. This problem is leading to discrepancies in our financial records and is making it difficult to reconcile the differences.<br><br>The issue began recently, and we have attempted to address it by validating user inputs and rebooting the system. Unfortunately, the problem persists and we are uncertain of its origin. It could be due to user error or a software malfunction, but we require your help to resolve it.<br><br>We have reviewed system logs and confirmed that all user inputs are accurate, yet the reports still show inconsistent data. We have also tried rebooting the system, but the issue remains unresolved. We are concerned this problem might be impacting our financial reporting and urgently need your assistance in addressing this matter.<br><br>Could you please look into this issue and offer a solution or guidance on how to fix it? We would greatly appreciate any help you can provide in resolving this issue.<br><br>Thank you for your time and attention to this matter. We look forward to hearing from you soon.<br><br>Sincerely,<br>[Your Name]",
+    "true_category": "Billing and Payments",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0105",
+    "text": "Assistance Required for Figma Integration\n\nDear Customer Support, we are looking for guidance on integrating Figma with Adobe Creative Cloud to enhance design collaboration within our team. We are particularly interested in learning about the benefits of this integration and how it can improve our workflow. Could you provide us with step-by-step instructions or recommend any resources that could help us get started? Your assistance in this matter would be greatly appreciated. We look forward to your prompt response. Thank you for your time and support.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0106",
+    "text": "Investment System Crash Identified\n\nThe investment optimization system has encountered a crash during the data analysis process.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0107",
+    "text": "Problem with Project Management Software as a Service\n\nThe Project Management SaaS has encountered a crash. An incompatible update to Apache Hadoop might be the cause.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0108",
+    "text": "System Crash Incident\n\nOur data analytics platform has experienced a crash, which has hindered our investment optimization efforts. It is possible that this issue is related to insufficient server capacity, programming errors, or integration problems. We have already initiated actions such as restarting the servers, reviewing system logs, and confirming integration statuses.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0109",
+    "text": "Boost malware protection for secure medical data storage systems\n\nDear support team, I am contacting you to seek ways to improve malware protection for our hospital's IT network and medical data. Ensuring the safety and accuracy of our patient information is crucial. Could you give us more details about the available solutions and their costs? We would also like any advice on how to deploy these solutions properly.",
+    "true_category": "Sales and Pre-Sales",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0110",
+    "text": "Problem with Loading Data Analytics Dashboard\n\nRespected Customer Support, I am contacting you to report an issue I have encountered with our data analytics dashboard. The dashboard unexpectedly crashed, causing us to lose valuable investment insights. We believe it could be due to a compatibility issue with the recent SQL Server 2019 update. We have already attempted to restart the server and reviewed the Elasticsearch 7.13 logs, but the problem remains unresolved. We would greatly appreciate your assistance in resolving this. Could you provide us with any troubleshooting advice or guidance on fixing the compatibility problem? Please inform us if you need any further information from us. We appreciate your swift response and look forward to your prompt resolution of this issue.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0111",
+    "text": "Issue with Our Website\n\nDear Customer Support,\\n\\nI am contacting you to report an unexpected crash of our website last night. We think it could have been caused by increased traffic, but despite our attempts to fix it, the problem remains unresolved.\\n\\nWe have already restarted the server and reviewed the logs, yet we have not pinpointed the cause. This situation is causing concern for our users, and we would greatly appreciate your help in quickly resolving it.\\n\\nCould you please investigate and offer any advice or support you can? We would be extremely grateful for any assistance that will enable our website to function smoothly again.\\n\\nThank you for your attention and cooperation.\\n\\nSincerely,\\n[Your Name]",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0112",
+    "text": "Scalable Project Management SaaS Integrations\n\nInquiring about the types of integrations available for our scalable project management SaaS. Could you provide more information on the third-party apps and APIs that are integrated? We are particularly interested in learning how these integrations can be customized to meet the specific needs of our organization. Additionally, we would appreciate details on the security and reliability of these integrations. Thank you for your assistance, and we look forward to hearing back soon.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0113",
+    "text": "Assistance with Data Mismatches Problem\n\nFacing data mismatches in investment analytics owing to old software integrations.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0114",
+    "text": "Support for Integrating Microsoft Office 365\n\nCan you provide details on integrating Microsoft Office 365 project management software? This will help us understand your requirements and provide an accurate solution. Thank you for considering our product.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0115",
+    "text": "Problem with Integration Not Working\n\nThe tools are not being integrated",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0116",
+    "text": "Problem with Synchronization Across Various Devices\n\nCustomers are facing synchronization challenges across different devices. This might be due to an integration error. Problems continue even after restarting the devices and clearing caches.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0117",
+    "text": "Request for NZXT Marketing Strategy Support\n\nHello Customer Support, I am writing to discuss the implementation of enhanced digital marketing strategies for the NZXT Kraken Z63 and related products. Our goal is to boost brand visibility and engagement. We would like to explore options such as social media campaigns, influencer partnerships, and targeted advertising. Could you please provide guidance on the available approaches and resources? We are looking forward to hearing from you and working together to enhance the online presence of NZXT products.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0118",
+    "text": "Incident: Security Breach\n\nPotential medical data breach detected on the hospital's network, possibly related to malware or a printer malfunction.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0119",
+    "text": "Reported Crash in Data Analytics Software\n\nThe data analytics software encountered a crash. It could be due to incompatible updates. System restart and update check were performed.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0120",
+    "text": "Assistance with Digital Strategies for Brand Visibility\n\nInquiring about digital strategies to enhance brand visibility using the Hemingway Editor. Would appreciate detailed information and examples of case studies that demonstrate the effectiveness of these strategies. Additionally, interested in understanding how using the Hemingway Editor can benefit the brand's online presence. Looking forward to hearing back soon.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0121",
+    "text": "Several Tools Failed to Function Properly This Morning\n\nA number of tools experienced failures concurrently this morning. This might have been caused by an overload of the infrastructure. Steps taken include restarting the servers, reviewing the logs, and alerting the relevant teams. The problem is under scrutiny and rectification efforts are ongoing.",
+    "true_category": "Service Outages and Maintenance",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0122",
+    "text": "Concern Regarding Investment Calculations\n\nA financial company is encountering inconsistencies in investment return calculations with H2O.ai SQL Server analytics. The issue might be due to data integration errors or outdated algorithms. To date, the team has reviewed data sources and updated the software, but the inaccuracies persist. Despite attempts to troubleshoot, the problem remains unresolved. We would greatly appreciate it if you could look into this matter and provide a solution as soon as possible. Please let us know if additional information is needed.",
+    "true_category": "Returns and Exchanges",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0123",
+    "text": "Problem with SaaS Application Connection\n\nWe are facing occasional connection problems during user sessions.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0124",
+    "text": "Reduced Interaction with Marketing Campaigns\n\nThe level of engagement is below the anticipated threshold.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0125",
+    "text": "Problem with Adobe Premiere Pro\n\nEncountered system crashes while editing videos in Adobe Premiere Pro 2021",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0126",
+    "text": "System Crash During Data Analysis\n\nBriefly described, the system crashed during data analysis. It could be due to insufficient RAM or a software conflict. After restarting the systems and reviewing logs, the problem still occurs. Immediate help to fix this is required.",
+    "true_category": "Service Outages and Maintenance",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0127",
+    "text": "Problem with SQL Server Downtime\n\nFaced an SQL Server outage that disrupted data analytics processing, impacting investment optimization. The outage might be due to high query loads on the server. Restarted the SQL Service and reviewed the server logs for any errors.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0128",
+    "text": "Enhance Compatibility for Improved Performance in Project Management SaaS\n\nWe aim to update the compatibility settings for various software and hardware to enhance integration within your project management SaaS platform, ultimately improving performance.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0129",
+    "text": "Marketing Challenge\n\nA marketing firm observed a decline in brand engagement. This might be due to algorithm changes or ineffective ad targeting. After reviewing ad performance and adjusting settings, we have not seen any improvement.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0130",
+    "text": "Concern Regarding Anomalies in Digital Campaign Performance\n\nHello Support Team, I am contacting you to address a recent anomaly in my digital campaign performance metrics. This could be a result of an integration glitch. Restarting my QuickBooks and Mailchimp connections did not resolve the issue. I would greatly appreciate your assistance in investigating this and providing a resolution as soon as possible. Please let me know if you need further details from me to address this. Many thanks for your support and I look forward to your prompt response. Best regards, [Your Name]",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0131",
+    "text": "Assistance with Digital Brand Growth Services\n\nInquiring about digital strategy services for brand growth. Could you provide information on the services you offer and how they can benefit a business? I am interested in learning about your digital marketing approach to help achieve our brand's goals. Specifically, I would like to know more about social media management, content creation, and search engine optimization services. Thank you for your time, and I look forward to hearing back from you.",
+    "true_category": "Sales and Pre-Sales",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0132",
+    "text": "Concern About Low Engagement on Social Media Campaigns\n\nI am encountering low engagement on my social media campaigns, primarily due to inadequate targeting and outdated content. Despite my efforts to adjust ad spend and refine my content strategy, the issue continues. I would greatly appreciate your support in addressing this and enhancing my social media engagement.",
+    "true_category": "Sales and Pre-Sales",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0133",
+    "text": "App Crash Encounter\n\nI am facing an unexpected crash with the project management application, which may be related to incompatible antivirus software. I have restarted the application, verified system updates, and turned off the antivirus, yet the issue continues. Please assist me in resolving this problem.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0134",
+    "text": "Support for Billing Optimization\n\nI require assistance in optimizing the subscription billing for a variety of software tools and hardware devices utilized by our financial analysts. Please help me in simplifying this process.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0135",
+    "text": "Problem with Medical Data Retrieval\n\nI am encountering sluggish access to medical data and delayed transfers. This may be due to an incorrect Kubernetes setup. Despite restarting the Aruba switch and updating the Sophos application, the issue remains unresolved. I would be grateful for your help in addressing this. Kindly inform me of the subsequent actions to proceed.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0136",
+    "text": "Addressing Challenges with Tool Integrations\n\nI hope this message finds you well. I am reaching out to address ongoing integration challenges with several tools that are generating project delays. These tools have exhibited malfunctions, synchronization failures, and data corruption. I believe these problems might stem from recent adjustments to the API or the use of outdated plugins. Despite my efforts to restart the tools, verify configurations, and reset connections, the issue remains unresolved. I would greatly appreciate your timely support to resolve this issue so that my project can proceed as planned. Kindly inform me of any additional details you require to initiate the troubleshooting process.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0137",
+    "text": "Investment Strategies through Data Analytics Tools\n\nIs it possible to gain insights and optimize investment strategies using data analytics tools? We would greatly appreciate your feedback. Thank you!",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0138",
+    "text": "Unintended Loss of Campaign Data Following Node.js Update\n\nGood day, Customer Service Team. I am inquiring about an anomaly with our campaign data. It vanished unexpectedly overnight. We believe the recent Node.js 14.17 upgrade might have led to compatibility problems. We have attempted to restart the server and examine the Airtable logs, yet the issue remains unresolved. Can you provide guidance on how to proceed? Please inform us if there are any further actions we can take to resolve this. Your prompt assistance is greatly appreciated. Sincerely, [Your Name]",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0139",
+    "text": "Payment Options for Magento Integration\n\nDear Customer Support, I am contacting you to ask about the payment methods that can be used to integrate Magento with your SaaS platform. I would like to gather information on the different payment gateways and methods that can be utilized to conduct transactions between the two systems. Particularly, I am curious if you offer support for well-known payment gateways such as PayPal, Stripe, and Authorize.net. Furthermore, I would also appreciate details about any associated fees and whether there are any reductions for larger transaction volumes. I am looking forward to your response and would like to learn more about the payment options for Magento integration with your SaaS platform. Thank you for your help. Best regards, [Your Name]",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0140",
+    "text": "Immediate Concern\n\nResolve disruption affecting Salesforce integration",
+    "true_category": "Service Outages and Maintenance",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0141",
+    "text": "Solutions for Data Security\n\nCustomer Support, seeking information on data security solutions for healthcare products. Could you provide details on the measures in place to protect sensitive patient information? I would greatly appreciate any information you can provide regarding encryption methods, access controls, and compliance with industry regulations. Additionally, I would like to know about any certifications or audits your company has undergone to ensure the security of your products. Thank you in advance, and I look forward to hearing back soon.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0142",
+    "text": "Assistance Required for Unauthorized Access\n\nAn unauthorized access attempt has been detected in the hospital's systems, which could be due to misconfigured security settings. Initial investigations have shown potential vulnerabilities in Notion and Squarespace that may have been exploited. Access logs have been reviewed and passwords changed, but security risks still persist. Kindly assist in investigating and resolving this matter.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0143",
+    "text": "Data Leak Issue\n\nUnanticipated data leaks have been observed. It is possible that inadequate access controls are the reason. Restarting Redis 6.2 was attempted, but the problem continues. Additional support is required to address this.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0144",
+    "text": "Update Information for Marketing Firm\n\nOur organizational structure has evolved, and it is necessary to adjust our billing information to match these changes. Additionally, we are interested in investigating new payment options. Can you help us through this procedure?",
+    "true_category": "Billing and Payments",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0145",
+    "text": "Concern Regarding Identified Medical Data Breach\n\nHello customer service, we have noticed a medical data breach with access to patient records that is not authorized. It could be due to a weak WLAN-Router password and an outdated Norton Antivirus. We have already attempted to restart the router, update the antivirus, and run a malware scan, but the problem still exists. We require your help to address this issue promptly to protect our patient records.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0146",
+    "text": "Security Features for Medical Data\n\nHello Customer Support, I am writing to inquire about the security measures Vagrant provides for the safeguarding of medical information. Since medical data is extremely sensitive and must be protected against unauthorized access, I would like to know the steps Vagrant takes to maintain the privacy, consistency, and accessibility of medical data. Specifically, I am interested in learning about the encryption techniques used, the access control mechanisms in place, and any compliance certifications that Vagrant holds. I would greatly appreciate a detailed explanation of these security measures. I look forward to your response and hope to hear from you soon.",
+    "true_category": "Customer Service",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0147",
+    "text": "Account Problem\n\nNoted the occurrence of unauthorized charges on your account during a specific month across various products. This might have happened due to a billing system glitch or account compromise. So far, we have verified your account security settings and reviewed recent transactions. We kindly ask for your assistance in investigating and resolving the matter as soon as possible to prevent any further unauthorized activity.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0148",
+    "text": "Invoices Not Synchronizing with NAS Storage\n\nAfter attempting to sync with my QNAP TS-453D NAS, the invoices vanished. I've restarted the service, reviewed the logs, and ensured all settings are correct, yet the problem continues. I believe this might be due to a configuration issue or software bug on the NAS. Could you please help resolve this?",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0149",
+    "text": "Project Synchronization Issue Today\n\nThe project synchronization encountered a complete failure, resulting in data loss following the update.",
+    "true_category": "Customer Service",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0150",
+    "text": "Issue with Project Setup\n\nEncountered an unexpected error while setting up the project. It might be due to insufficient user permissions. Steps taken: Restarted the application and cleared the cache.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0151",
+    "text": "Support Required for Investment Predictions\n\nThere have been incorrect investment predictions due to flawed data input. After attempting to rerun the models with updated data, the issue continues. I would greatly appreciate your help in addressing this problem.",
+    "true_category": "Returns and Exchanges",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0152",
+    "text": "Effective Digital Strategies for Tech Product Brand Expansion\n\nI am contacting you to seek advice on the best digital strategies to boost brand growth for our tech product. I would be grateful for insights on enhancing brand awareness and interacting more effectively with our customers. Could you provide some key considerations for crafting a digital marketing campaign for a tech product? I am excited about exploring opportunities to strengthen our brand's online footprint and would appreciate your guidance.",
+    "true_category": "Customer Service",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0153",
+    "text": "Assistance Required for Investment Strategies\n\nI am reaching out to seek guidance on utilizing data analytics to optimize my investment strategies. Could you provide some tips and resources to get started? Your information and tools would be greatly appreciated. I look forward to hearing from you soon. Thank you for your help in making informed investment decisions.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0154",
+    "text": "Problem with Laravel Application\n\nWe are facing connectivity issues with the Laravel app.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0155",
+    "text": "Technical Assistance Required for System Glitches\n\nA significant problem has arisen, leading to integration failures. These issues might be due to recent update compatibility problems. Efforts to resolve this by rolling back updates and clearing the cache have not been successful. Please provide support to address this issue.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0156",
+    "text": "Available Data Analytics Tools for Optimizing Investments\n\nHello Customer Support, I am inquiring about the data analytics tools that are available to optimize my investments. Could you provide information on the types of tools you offer to assist me in making informed investment decisions? I am interested in learning about the features and benefits of the tool, as well as any tutorials or support resources that are available. Additionally, I would appreciate any guidance on how to get started using the tools. Thank you for your assistance, and I look forward to hearing back from you soon.",
+    "true_category": "Customer Service",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0157",
+    "text": "Inquiry About Product Features\n\nHello Customer Support Team, I am writing to inquire about the features of your SaaS product, particularly focusing on project scalability and team collaboration. Could you provide details on how the product manages large projects involving multiple team members? I am also interested in learning more about the tools and features that the product offers, as well as the support aspects. Additionally, I would appreciate any information you can provide on pricing, security, and customer support. I am looking for a reliable and efficient solution that meets our team's needs, and I believe your product could be a good fit.",
+    "true_category": "Customer Service",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0158",
+    "text": "Guidance on Integrating Docker with SaaS Project Management Tool\n\nHello customer support, I am contacting you to seek information on how to integrate Docker with your SaaS project management software. My goal is to improve the efficiency of my project, and I think Docker could be a beneficial tool. Could you assist me by providing initial guidance on the integration process? I would also be grateful if you could share any relevant documentation or resources. Specifically, I am interested in knowing the specific actions needed to ensure a smooth integration. I look forward to your response and examining how Docker can boost my project's performance.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0159",
+    "text": "Support for Alteryx Data Analytics Training\n\nI am contacting you to seek details on the training opportunities for using the Alteryx data analytics tool. Could you kindly share the available training types, such as online classes, workshops, or certification courses? Additionally, any suggestions for a beginner to start with Alteryx would be greatly appreciated. Thank you for your cooperation and help.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0160",
+    "text": "Request for Support on Digital Strategy Hurdle\n\nOur marketing agency encountered a digital strategy challenge. Despite attempting to resolve the issue with software updates like Malwarebytes and IntelliJ IDEA, the problems continue to occur on various platforms.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0161",
+    "text": "Investment Optimization Services Inquiry Today\n\nDear Customer Support, I am contacting you to ask about the data analytics tools you provide for investment optimization services. Could you share a list of the tools and platforms you use to analyze investment data and optimize investment portfolios? Specifically, I am keen to learn about your risk management and portfolio optimization services. Additionally, I am interested in knowing if you have any machine learning or AI-based solutions for investment optimization. It would be great if you could also give me some case studies or examples of how your data analytics tools have helped clients meet their investment objectives. Thank you for your time and assistance. I look forward to your response. Best regards, [Your Name]",
+    "true_category": "Sales and Pre-Sales",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0162",
+    "text": "Problem with Software Crashes in Investment Data Analysis\n\nAre encountering software crashes while performing investment data analysis on an Ubuntu 20.04 LTS system, possibly due to compatibility issues with Microsoft Office 2021 and Bitbucket. Despite restarting the system and reinstalling affected applications, the issue continues. We need assistance to resolve this problem.",
+    "true_category": "Product Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0163",
+    "text": "Enhancing Brand Growth Through Digital Strategies\n\nCustomer Support, seeking more information on the digital strategies you offer to support brand growth. Specifically, I am interested in learning about your approach to social media marketing, content creation, and search engine optimization. I would greatly appreciate it if you could provide detailed information, including any case studies or testimonials from previous clients. Thank you for your assistance, and I look forward to hearing back from you soon.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0164",
+    "text": "Inquiry on Digital Strategies for Smart Gardening Systems\n\nSeeking details on digital strategies for promoting Smart-Gartenbew\u00e4sserung and Smart-Wassermelder. Appreciate your assistance!",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0165",
+    "text": "Guidance for Securing Medical Data in Hospitals\n\nCould you offer advice on securing medical data in hospital environments using Apache Hadoop 3.2.1? It's essential to ensure the confidentiality and integrity of patient records. Please share best practices and recommendations for implementing strong security measures.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0166",
+    "text": "Cassandra Crash Issue\n\nThe Cassandra 4.0 database has encountered a crash leading to data loss because of inadequate storage and poor setup.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0167",
+    "text": "Support for Multilingual WordPress Setup Required\n\nI am contacting you to seek assistance in adding Google Translate functionality to my WordPress site for multilingual support. My goal is to make my website accessible to a wider audience by offering content in several languages. Could you please give me detailed instructions or suggest plugins that can help me integrate this feature? I would greatly appreciate any support or materials you can provide to make my website more inclusive.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0168",
+    "text": "Issue Reported: Website Loading Slowly\n\nGreetings Customer Support, I am contacting you to report that the website is loading slowly. This has occurred unexpectedly and might be due to a high volume of traffic. Despite attempting to restart the server and verify network connectivity, the problem continues to persist. Could you please look into this and offer a solution at your earliest convenience? If there is any additional information needed from me to address this, please let me know. I look forward to your response. Thank you for your assistance.",
+    "true_category": "Service Outages and Maintenance",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0169",
+    "text": "Facilitating Smooth Synchronization Between Ulysses and Google Keep for Project Management\n\nI am writing to inquire about the possibility of integrating Ulysses and Google Keep for smooth note synchronization within my project management workflow. In my current setup, I use Ulysses for detailed writing and project organization, while relying on Google Keep for quick notes and reminders. My goal is to have access to all my notes from both applications in a single, integrated environment. Could you please inform me whether such an integration is feasible and, if so, what actions I should take to set it up? I would greatly appreciate any assistance or instructions you can offer to help me achieve this integration.",
+    "true_category": "Technical Support",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0170",
+    "text": "Investment Data Inquiry\n\nI am writing to request information on the data analytics tools you provide for investment optimization. Could you share details about the tools available and how they can assist in making investment decisions? Any assistance you can offer would be greatly appreciated.",
+    "true_category": "Returns and Exchanges",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0171",
+    "text": "Concern Regarding Protection of Medical Information\n\nWe are encountering issues with safeguarding medical information, with our critical systems being impacted by a potential security breach. It appears that outdated network configurations and software vulnerabilities might be the cause. We have already made changes such as adjusting the firewall and updating the system software, and we have completed a comprehensive security review. We would greatly appreciate your help in investigating and resolving this matter. Could you please inform us of the next steps? We are looking forward to your guidance. Thank you for your support.",
+    "true_category": "IT Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0172",
+    "text": "Problem with Investment Data Analysis\n\nA critical issue has arisen during the analysis of investment data, leading to delays in report generation. This problem might be due to software incompatibilities or configuration errors. Steps such as restarting applications and clearing cache have been taken, but the issue remains unresolved. We kindly request your assistance in resolving this matter as soon as possible.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0173",
+    "text": "Assistance Required for Unauthorized Access to Medical Data Systems\n\nThere have been experienced unauthorized access attempts to our medical data systems. These attempts may be due to outdated security protocols. Despite enhancing firewall settings and resetting credentials, the access attempts continue to persist. I need assistance in resolving this issue to ensure the security of our data systems.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0174",
+    "text": "Healthcare System Data Breach\n\nA data breach has been identified, which may compromise medical records due to outdated security measures. After reviewing the updated antivirus software and access logs, the issue still persists.",
+    "true_category": "Technical Support",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0175",
+    "text": "Concern Regarding Security Breach in Medical Data\n\nAn unauthorized access alert has been triggered in the medical data system, which may be due to outdated security protocols. A preliminary audit was conducted and passwords were updated, but the issue still persists. I would appreciate your prompt assistance in resolving this matter to ensure the security of our medical data.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0176",
+    "text": "Report on Data Breach Incident\n\nA data breach incident has affected sensitive medical data within our hospital systems. It may have occurred due to outdated security protocols. We have initiated system scans and temporarily restricted access to affected devices to minimize damage.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0177",
+    "text": "Problem with Digital Campaign Software\n\nA marketing firm encountered unexpected downtime with the digital campaign tools. They have attempted to restart the system and check their internet connection, but these actions did not resolve the issue.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0178",
+    "text": "Issue with Project Timelines Syncing Across Teams\n\nGreetings Customer Support, I hope this message finds you well. I am experiencing difficulties with project timelines syncing correctly among our team members. I suspect the problem could be related to misconfigured settings. Despite my efforts to reset the server and check user permissions, the issue remains unresolved. I would be grateful for your help in addressing this. Please feel free to request any further details from me. I am eagerly awaiting your response. Thanks for your assistance.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0179",
+    "text": "Docker Billing Concern\n\nHello Customer Support, I am contacting you to address an unusual billing entry on my recent Docker usage invoice. I suspect these charges might be related to MySQL data synchronization problems. Despite attempting to resolve the issue by verifying the RAID-Controller and restarting Docker containers, the problem remains unresolved. I kindly ask you to examine this situation and offer a solution promptly. Please provide me with further instructions if any additional information is required from my side to assist in the investigation. Thank you for your attention and cooperation. Sincerely, [Your Name]",
+    "true_category": "Billing and Payments",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0180",
+    "text": "Issue with Report Generation\n\nThe automated report generation process has encountered difficulties, likely due to software compatibility problems. Despite restarting the server and verifying configurations, the problem remains unresolved.",
+    "true_category": "Technical Support",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0181",
+    "text": "Issue with Signal Subscription Charges\n\nI'm facing a billing problem with my Signal subscription, as there are repeated charges that may stem from an incorrect account synchronization. I have rebooted the service and reviewed my payment record, but the issue is still there. Could you please investigate and help resolve this as soon as possible?",
+    "true_category": "Billing and Payments",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0182",
+    "text": "Concern About SaaS Application Performance\n\nA significant performance issue has emerged, impacting the SaaS application, causing slow response times and timeouts. This may be related to recent updates or integrations with Repeater, Norton Antivirus, and WooCommerce. We have tried restarting the server, optimizing queries, and rolling back recent changes, but the issue remains unresolved. We need your assistance to resolve this issue promptly to minimize downtime and prevent further disruptions.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0183",
+    "text": "Problems with Concurrent Tool Integrations\n\nThere were simultaneous failures with multiple tool integrations. This might be due to an API overload or synchronization problem. The system was restarted, reconnected, and user permissions were checked.",
+    "true_category": "Product Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0184",
+    "text": "Concern about Medical Data Encryption Failure\n\nHello support team, I am writing to describe a recent issue with our medical data encryption. It seems to have failed unexpectedly, possibly due to incompatibility with recent software updates. Despite my attempts to restart the systems and adjust firewall settings, the problem remains unresolved. It is crucial for us to address this as soon as possible to avoid any potential data breaches or losses. Could you assist me in pinpointing the root cause and suggest a solution to guarantee the security of our medical data?",
+    "true_category": "Customer Service",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0185",
+    "text": "Query on SaaS Project Management Capabilities with Pro Tools Integration\n\nHello, I am reaching out to inquire about the SaaS project management capabilities and their integration with Pro Tools. I would greatly appreciate it if you could provide detailed information on this topic, including any relevant documentation and tutorials. This will help me better understand the services and ensure they meet my needs. Thank you for your time and assistance. I look forward to hearing back from you soon.",
+    "true_category": "Sales and Pre-Sales",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0186",
+    "text": "Service Disruptions\n\nEncountered service interruptions across various products, specifically the Smart-Thermostat Polk Audio Signa S2, following the latest software update.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0187",
+    "text": "Safe Data Storage and Transmission Solutions\n\nGreetings from customer support. I am contacting you to inquire about the secure storage and transmission options that are available. I am in need of a dependable and effective method for handling sensitive information. Could you provide an overview of the available protocols and methods? Any recommendations or guidance would be greatly appreciated. I am especially interested in learning about encryption techniques and secure data transfer protocols. If you have any relevant resources or documentation, I would be grateful if you could share them with me. Thank you for your time and help. I look forward to your response.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0188",
+    "text": "Alert Regarding Data Breach\n\nA medical data breach happened due to inadequate encryption and outdated Apache Hadoop. Patient records were accessed without authorization. Despite updating MongoDB and restarting Cassandra, the problem continues.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0189",
+    "text": "Data analytics platform experienced an unexpected failure\n\nThe Cassandra 4.0 database encountered an issue because it lacked adequate resources.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0190",
+    "text": "Issue Reported: Investment Analytics Platform Crashed\n\nHello Customer Support, I need to inform you about a problem I encountered with the investment analytics platform. It unexpectedly stopped working, and I think it might have been caused by a lack of system resources. Restarting the system and updating it did not resolve the issue. I would be grateful if you could investigate this and offer a solution quickly. The platform's failure happened at an inopportune moment when I was working with important data, and I am worried it might happen again. Could you suggest any preventive measures? Also, please let me know if you require any additional information or if there are more steps I can take to troubleshoot. I look forward to your prompt response. Thank you for your attention and support.",
+    "true_category": "Customer Service",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0191",
+    "text": "Data analytics platform experienced a crash during the night\n\nThe data analytics platform encountered a crash. Servers were restarted and log checks were performed.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0192",
+    "text": "Technical Issues with Digital Strategies Tools for Marketing Agency\n\nA marketing agency is encountering technical difficulties with their digital strategies tools, particularly regarding the KVM switch which is not connecting properly.",
+    "true_category": "Technical Support",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0193",
+    "text": "Incident of Security Violation in Hospital IT Systems\n\nThere was an unauthorized access to medical data, even with existing security protocols in place. This might be due to vulnerabilities in the hospital's IT systems. Efforts to address the issue, such as software updates and enhanced firewall protections, have been made but the unauthorized access continues. Immediate help is needed to resolve this issue and secure patient data.",
+    "true_category": "Technical Support",
+    "true_urgency": "low"
+  },
+  {
+    "id": "kt0194",
+    "text": "Problem with Digital Engagement\n\nFacing an unexpected decline in digital engagement metrics which is affecting our brand growth strategies. The recent modifications to digital ad algorithms might be the cause. After making adjustments to ad targeting and revising the content, there was some improvement. I need help in resolving this issue.",
+    "true_category": "General Inquiry",
+    "true_urgency": "high"
+  },
+  {
+    "id": "kt0195",
+    "text": "Problems with Connectivity\n\nCustomers are facing sporadic connectivity problems with the SaaS platform. These issues might be caused by network instability or configuration errors. Steps like restarting devices, reconfiguring settings, and checking service statuses have been taken but have not resolved the problem. We are actively working to resolve the issue as soon as possible.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0196",
+    "text": "Growth Strategy for Digital Brands\n\nCould you please provide details on digital strategy services to boost brand growth? Thank you.",
+    "true_category": "Billing and Payments",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0197",
+    "text": "Problem with Login Feature\n\nCustomers are experiencing sporadic login difficulties during peak times. This might be related to server load and connection timeouts. Steps already taken include clearing the browser cache and trying different devices, but the issue remains unresolved.",
+    "true_category": "IT Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0198",
+    "text": "Sync Trouble with Project Timelines\n\nI am currently facing problems with project timelines not syncing across my devices. Despite my attempts to restart, check my internet connection, and update Notion, the issue still exists. I believe it might be related to an API integration problem. Could you offer assistance in resolving this? I would greatly appreciate any tips on troubleshooting or fixing the problem.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  },
+  {
+    "id": "kt0199",
+    "text": "Issue with Synchronization of Project Timeline\n\nGreeting from customer support, I am contacting you to inform you about a trouble I encountered with the synchronization of my project timeline. The synchronization did not run smoothly and I suspect it may be because of compatibility problems with SQL Server. I have already attempted to restart my Surface Pro and verified the settings for Cassandra 4.0, yet the problem still continues. I kindly request you to investigate the situation and offer a solution at the earliest. Please inform me if you require any extra information from me to address this situation. I remain open to providing more details or clarifications if necessary. Thank you for your understanding and help. I am eagerly waiting for your reply.",
+    "true_category": "Technical Support",
+    "true_urgency": "medium"
+  }
+]
