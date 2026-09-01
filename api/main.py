@@ -1,9 +1,4 @@
-"""
-FastAPI wrapper around the core triage pipeline.
 
-Run: uvicorn api.main:app --reload
-Then visit http://127.0.0.1:8000/docs
-"""
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -15,7 +10,7 @@ app = FastAPI(title="Support Ticket Triage API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # fine for a portfolio demo; a real prod app would restrict this
+    allow_origins=["*"],  
     allow_methods=["*"],
     allow_headers=["*"],
 )

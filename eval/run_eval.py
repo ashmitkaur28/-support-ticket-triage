@@ -1,14 +1,4 @@
-"""
-Runs the triage pipeline against a hand-labeled eval set and reports
-classification accuracy + latency/cost stats. This is what generates the
-real numbers for your resume/README — don't skip this step.
 
-NOTE: eval_set.json ships with only 5 examples as a starter. Expand this
-to 30+ hand-labeled tickets before reporting numbers anywhere — 5 examples
-isn't a credible sample size.
-
-Usage: python eval/run_eval.py
-"""
 import json
 from pathlib import Path
 

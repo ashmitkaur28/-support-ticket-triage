@@ -1,8 +1,4 @@
-"""
-Guardrails: input/output safety checks for the triage pipeline.
-Deliberately simple pattern-matching, not a production-grade classifier —
-that's an honest limitation worth naming in an interview, not hiding.
-"""
+
 
 MAX_TICKET_LENGTH = 4000
 MIN_TICKET_LENGTH = 3
@@ -27,7 +23,7 @@ INJECTION_PATTERNS = [
 class GuardrailViolation(Exception):
     def __init__(self, message: str, rule: str):
         super().__init__(message)
-        self.rule = rule  # which specific guardrail fired, for logging
+        self.rule = rule  
 
 
 def check_input(ticket_text: str) -> None:
@@ -47,7 +43,7 @@ def check_input(ticket_text: str) -> None:
                 rule="injection_pattern",
             )
 
-    # crude flood/spam check: same character repeated excessively
+    
     for ch in set(ticket_text):
         if ticket_text.count(ch) > 200 and ch.isalnum():
             raise GuardrailViolation("Ticket appears to be spam/flood content.", rule="flood")

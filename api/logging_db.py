@@ -1,16 +1,10 @@
-"""
-Simple SQLite logging for every triage request. This is what powers your
-observability dashboard and your resume's cost/latency numbers.
-"""
+
 import sqlite3
 import time
 from pathlib import Path
 
 DB_PATH = Path(__file__).parent.parent / "logs.db"
 
-# Groq pricing as of writing — check console.groq.com/docs/models for
-# current numbers before reporting these anywhere, pricing changes.
-# $/million tokens.
 PRICING = {
     "openai/gpt-oss-20b": {"input": 0.075, "output": 0.30},
     "openai/gpt-oss-120b": {"input": 0.15, "output": 0.60},

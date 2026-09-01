@@ -1,9 +1,4 @@
-"""
-Generates a small set of synthetic support tickets for testing/eval.
-Run once to create data/tickets.json.
 
-Usage: python data/generate_synthetic_tickets.py
-"""
 import json
 import os
 from pathlib import Path

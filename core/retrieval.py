@@ -1,11 +1,4 @@
-"""
-Handles embedding + retrieval over the knowledge base docs using ChromaDB
-for semantic search, combined with BM25 for keyword search (hybrid RAG).
 
-Usage:
-    python core/retrieval.py --build      # build/rebuild the index
-    python core/retrieval.py --query "my package never arrived"
-"""
 import argparse
 import pickle
 from pathlib import Path
@@ -84,12 +77,7 @@ def _keyword_search(query: str, k: int) -> dict:
 
 
 def retrieve(query: str, k: int = 3) -> list[dict]:
-    """
-    Hybrid retrieval: combines semantic (embedding) search and keyword
-    (BM25) search using reciprocal rank fusion, so a chunk that ranks well
-    in EITHER method gets boosted — this is more robust than either
-    method alone, especially for tickets that use exact policy terms.
-    """
+   
     semantic = _semantic_search(query, k=k * 2)
     keyword = _keyword_search(query, k=k * 2)
 
